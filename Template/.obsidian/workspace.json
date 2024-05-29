@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "3d89efbbcbfb2a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4360e5e3db85821a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35b12c9596e53f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dcbbf673242434a",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ce49a35f645c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d0fe6382959ebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4979a8700332f322",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea17bb78294f1d2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc462e317324cdc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80dedb06ea173ccc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7189dd90caf1227",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1297007865ad5388",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "313de4db2785c8d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
+    }
+  },
+  "active": "16d0fe6382959ebf",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "notes/fleeting/rough-note.md",
+    "notes/log/2024-05-29 Wed.md",
+    "notes/log/index-of-log.md",
+    "notes/log/_Index_of_log.md",
+    "notes/index-of-notes.md",
+    "notes/example-note.md",
+    "templates/note-template.md",
+    "templates/log-template.md",
+    "templates/repository-template.md",
+    "templates/blog-template.md",
+    "notes/fleeting/index-of-fleeting.md",
+    "templates/index-of-templates.md",
+    "index-of-Template.md",
+    "notes/index-ofnotes.md",
+    "notes/fleeting/index-offleeting.md",
+    "notes/_Index_of_notes.md",
+    "_Index_of_Template.md",
+    "templates/_Index_of_templates.md",
+    "attachments/commitmono-variablefont.ttf",
+    "notes/log",
+    "notes/fleeting",
+    "templates",
+    "notes",
+    "attachments"
+  ]
+}

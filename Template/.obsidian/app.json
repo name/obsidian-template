@@ -1,0 +1,17 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "tabSize": 2,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes/fleeting",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments",
+  "showInlineTitle": false
+}
